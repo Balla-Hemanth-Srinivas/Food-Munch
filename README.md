@@ -20,7 +20,7 @@ This project includes a hero banner with a dark overlay, clean layout, action bu
 
 ## 🖼️ Preview
 
-![Food Munch Preview](./assets/images/Banner.jpeg)
+![Food Munch Preview](./assets/images/Output.png)
 
 ## 📂 Project Structure
 

@@ -35,7 +35,8 @@ project/
           ├── Banner.jpeg
           ├── Dining_Experience.jpg
           ├── Fresh_Vegetables.jpg
-          └── 50_Off.jpeg
+          ├── 50_Off.jpeg
+          └── Output.png
 ```
 
 ## 💻 How to Run
@@ -58,8 +59,8 @@ project/
 
 ## 👤 About Me
 
-**Your Name**  
-Frontend Developer | Web Designer  
+**Balla Hemanth Srinivas**  
+Frontend Developer | Web Designer | Software Engineer
 Passionate about building clean, beautiful, and responsive UI.
 
 ## ⭐ Support
